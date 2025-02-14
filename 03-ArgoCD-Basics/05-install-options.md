@@ -54,8 +54,6 @@ For production environments, it is recommended to use the **high-availability in
 - Includes **multiple replicas** for core ArgoCD components.
 - Provides enhanced reliability and fault tolerance.
 
-![ArgoCD HA Installation](sandbox:/mnt/data/image.png)
-
 ---
 
 ## Helm-Based Installation
